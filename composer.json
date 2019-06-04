@@ -1,5 +1,5 @@
 {
-  "name": "marvinsg/elasticquent",
+  "name": "marvinsg/Elasticquent",
   "type": "library",
   "description": "Maps Laravel Eloquent models to Elasticsearch types.",
   "keywords": [
